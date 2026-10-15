@@ -1,28 +1,19 @@
-# Práctica D3 - Calculadora de presupuestos
+# Práctica D2 - Del enunciado al programa
 
-## Descripción
-Programa que calcula el importe final de un pedido aplicando descuento,
-IVA y gastos de envío.
+## 1. Análisis
+Entradas, salidas y restricciones.
 
-## Análisis
-### Entradas
-...
+## 2. Diseño
+Pseudocódigo y diagrama de flujo.
 
-### Salidas
-...
+## 3. Codificación
+El código se encuentra en el archivo descuentos.py.
 
-### Restricciones
-...
+## 4. Pruebas
+Tabla con los seis casos de prueba.
 
-## Diseño
-### Pseudocódigo
-...
-
-### Diagrama de flujo
-...
-
-## Pruebas
-...
+## 5. Documentación
+Justificación del docstring, comentarios y cumplimiento de PEP 8.
 
 ## Autor
 Jose María Mas Chicharro y Andrea Mira Hernández
